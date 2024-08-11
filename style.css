@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(12, 101, 104);
+    
+}
+.navbar-brand {
+    color: antiquewhite;
+}
+.nav-link {
+    color: antiquewhite;
+}
+.nav-item {
+    color: antiquewhite;
+}
+.btn btn-primary {
+    background-color: blueviolet;
+}
+.card-text {
+    color: antiquewhite;
+}
+div {
+    background-color: rgb(9, 61, 110);
+}
+
+.card-body {
+    color: rgb(0, 5, 7);
+}
+.card-header {
+    background-color: rgb(9,61,110);
+    color: antiquewhite;
+}
+.bi-whatsapp {
+    color: antiquewhite;
+}
+.bi-facebook {
+    color: antiquewhite;
+}
+.bi-github {
+    color: antiquewhite;
+}
+.bi-linkedin {
+    color: antiquewhite;
+}
+.bi-instagram {
+    color: antiquewhite;
+}
+.bi-envelope {
+    color: antiquewhite;
+}
